@@ -3,8 +3,9 @@ game 'gta5'
 
 client_script 'client/main.lua'
 
-author 'xcscripts'
+author 'Xetes'
 
 files {
     'client/main.lua'
+
 }
